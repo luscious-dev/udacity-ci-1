@@ -1,6 +1,6 @@
-version 2.1
+version: 2.1
 
-jobs:
+job:
   build:
     docker:
       - image: circleci/node:13.8.0
